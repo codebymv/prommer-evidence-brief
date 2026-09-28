@@ -2,7 +2,9 @@
 
 A small, inspectable workflow for turning prommer.net's public material into sourced conversation briefs for founders, operators, and podcast producers.
 
-**Working artifact:** [`docs/index.html`](docs/index.html). Download/clone and open it, or serve `docs` locally. The checked-in brief uses live evidence captured during development and an AI-authored editorial proposal. Its source excerpts are verified mechanically; its interpretations still require human judgment.
+**[Open the live brief](https://codebymv.github.io/prommer-evidence-brief/)** · [Source artifact](docs/index.html) · [Editor handoff](prompts/editor.md)
+
+The checked-in brief uses live evidence captured during development and an AI-authored editorial proposal. Its source excerpts are verified mechanically; its interpretations still require human judgment.
 
 ## Run it
 
