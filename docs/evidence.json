@@ -1,0 +1,29 @@
+[
+  {
+    "id": "4e168003e8df",
+    "url": "https://prommer.net/en/tech/",
+    "quote": "Why I'm choosing MCP support over feature breadth for AI-native engineering teams in 2026.",
+    "retrieved_at": "2026-09-28T00:16:56+00:00",
+    "source_sha256": "839fb8dfd4234c7e76c0417d83c1977560bdb95f1e766a185e899645da444517",
+    "score": 2,
+    "elapsed_ms": 772
+  },
+  {
+    "id": "4d1ef832516e",
+    "url": "https://prommer.net/en/tech/press/",
+    "quote": "Quoted as global senior vice president of engineering at Adidas on three fixes for the AI accountability gap:",
+    "retrieved_at": "2026-09-28T00:16:56+00:00",
+    "source_sha256": "76425e57739a68e02c9d04f331d3757b2c86da24e004e6b2ff81b7fc0b7ccb5f",
+    "score": 4,
+    "elapsed_ms": 345
+  },
+  {
+    "id": "f0ad8fc31e5e",
+    "url": "https://prommer.net/en/tech/guides/context-engineering/",
+    "quote": "Context engineering is the practice of managing everything around the AI prompt to produce reliable outcomes. This includes:",
+    "retrieved_at": "2026-09-28T00:16:57+00:00",
+    "source_sha256": "40e6c2d825820394190f24036d2234016912f4d8c856091940f91a367df84bd9",
+    "score": 3,
+    "elapsed_ms": 664
+  }
+]

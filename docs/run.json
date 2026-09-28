@@ -1,0 +1,16 @@
+{
+  "run_id": "b0fd31ebc7ff7ac8",
+  "generated_at": "2026-09-28T00:20:58+00:00",
+  "audience": "producer",
+  "source_mode": "snapshot",
+  "stages": [
+    "collect",
+    "plan",
+    "verify",
+    "render"
+  ],
+  "collection_errors": [],
+  "validation_errors": [],
+  "status": "needs_human_review",
+  "elapsed_ms": 4
+}

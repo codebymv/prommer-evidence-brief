@@ -1,0 +1,27 @@
+{
+  "audience": "producer",
+  "mode": "AI-authored editorial draft; deterministic evidence gate",
+  "cards": [
+    {
+      "evidence_id": "4d1ef832516e",
+      "source_url": "https://prommer.net/en/tech/press/",
+      "quote": "Quoted as global senior vice president of engineering at Adidas on three fixes for the AI accountability gap:",
+      "question": "An AI workflow fails across three teams. Who should own the result?",
+      "next_step": "Interview angle: ask for a specific accountability decision, who had the authority to stop the workflow, and what evidence showed the change worked. Confirm the original reporting before presenting its claims as established facts."
+    },
+    {
+      "evidence_id": "f0ad8fc31e5e",
+      "source_url": "https://prommer.net/en/tech/guides/context-engineering/",
+      "quote": "Context engineering is the practice of managing everything around the AI prompt to produce reliable outcomes. This includes:",
+      "question": "What belongs outside the prompt when an AI system has to work twice?",
+      "next_step": "Interview angle: ask Thomas to trace one task from retrieved context through tool execution and validation. Request an example where changing the context contract fixed a failure that prompt wording could not."
+    },
+    {
+      "evidence_id": "4e168003e8df",
+      "source_url": "https://prommer.net/en/tech/",
+      "quote": "Why I'm choosing MCP support over feature breadth for AI-native engineering teams in 2026.",
+      "question": "Would you choose a tool with fewer features if your agents could use it reliably?",
+      "next_step": "Interview angle: compare a concrete integration before and after introducing a shared tool interface. Ask which capability was sacrificed and whether the operational savings justified that trade. The excerpt establishes a stated preference, not measured savings."
+    }
+  ]
+}
